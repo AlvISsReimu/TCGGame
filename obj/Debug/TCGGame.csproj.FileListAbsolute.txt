@@ -1,0 +1,10 @@
+E:\大学相关\学习\数据库系统原理\课设\TCGGame\TCGGame\bin\Debug\TCGGame.exe.config
+E:\大学相关\学习\数据库系统原理\课设\TCGGame\TCGGame\bin\Debug\TCGGame.exe
+E:\大学相关\学习\数据库系统原理\课设\TCGGame\TCGGame\bin\Debug\TCGGame.pdb
+E:\大学相关\学习\数据库系统原理\课设\TCGGame\TCGGame\obj\Debug\TCGGame.Form1.resources
+E:\大学相关\学习\数据库系统原理\课设\TCGGame\TCGGame\obj\Debug\TCGGame.Login.resources
+E:\大学相关\学习\数据库系统原理\课设\TCGGame\TCGGame\obj\Debug\TCGGame.Properties.Resources.resources
+E:\大学相关\学习\数据库系统原理\课设\TCGGame\TCGGame\obj\Debug\TCGGame.csproj.GenerateResource.Cache
+E:\大学相关\学习\数据库系统原理\课设\TCGGame\TCGGame\obj\Debug\TCGGame.exe
+E:\大学相关\学习\数据库系统原理\课设\TCGGame\TCGGame\obj\Debug\TCGGame.pdb
+E:\大学相关\学习\数据库系统原理\课设\TCGGame\TCGGame\obj\Debug\TCGGame.csprojResolveAssemblyReference.cache
